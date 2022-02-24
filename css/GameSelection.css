@@ -1,0 +1,1068 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+    
+
+}
+.Frame{
+  position:relative;
+
+    
+  width:100%;
+  margin-left:0;
+  height:1117px;
+  min-width:200px;
+  max-width:1728px;
+  margin:auto;
+  background-color:rgba(255, 255, 255, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+    
+
+}
+.GameSelection{
+  position:relative;
+  z-index:3;
+    
+  margin-left:0px;
+  width:1728px;
+  min-width:1728px;
+  height:1117px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:1117px;
+  background-color:rgba(64, 66, 73, 1);
+  filter:drop-shadow(30px 4px 4px rgba(0, 0, 0, 0.25));
+  overflow:hidden;
+}
+.GameSelection-outer{
+    
+
+  position:relative;
+  display:flex;
+}
+.Rectangle-31{
+  position:relative;
+
+  margin-left:121px;
+  width:194px;
+  min-width:194px;
+  height:102px;
+  margin-top:0px;
+  margin-bottom:1015px;
+  min-height:102px;
+  background-color:rgba(27, 28, 30, 1);
+}
+.Rectangle-31-outer{
+    
+
+  position:relative;
+  display:flex;
+}
+.Rectangle-2{
+  position:relative;
+
+    
+  margin-left:0px;
+  width:1728px;
+  min-width:1728px;
+  height:102px;
+  margin-top:-1117px;
+  margin-bottom:1015px;
+  min-height:102px;
+  background-color:rgba(36, 37, 43, 1);
+}
+.Rectangle-2-outer{
+
+  position:relative;
+  display:flex;
+}
+.Rectangle-1{
+  position:relative;
+
+    
+  margin-left:0px;
+  width:1728px;
+  min-width:1728px;
+  height:102px;
+  margin-top:-1117px;
+  margin-bottom:1015px;
+  min-height:102px;
+  background-color:rgba(40, 42, 48, 1);
+}
+.Rectangle-1-outer{
+    
+
+  position:relative;
+  display:flex;
+}
+.Outline-Communicatio{
+  position:relative;
+  
+    
+  margin-left:336px;
+  width:90px;
+  min-width:90px;
+  height:90px;
+  margin-top:-1110px;
+  margin-bottom:1020px;
+  min-height:90px;
+}
+.Outline-Communicatio-outer{
+
+  position:relative;
+  display:flex;
+}
+.Icon-1{
+  position:absolute;
+
+    
+  margin-left:13.333333333333337%;
+  width:71.7666666666667%;
+  height:59.75555555555555%;
+  margin-top:18.888888888888896%;
+  content:url(../assets/GameSelection_img/Icon_1.png);
+}
+.Icon-1-outer{
+    
+
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Outline-General-Home{
+  position:relative;
+
+    
+  margin-left:25px;
+  width:80px;
+  min-width:80px;
+  height:80px;
+  margin-top:-1108px;
+  margin-bottom:1028px;
+  min-height:80px;
+}
+.Outline-General-Home-outer{
+
+  position:relative;
+  display:flex;
+}
+.Icon-2{
+  position:relative;
+
+    
+  margin-left:15%;
+  width:69.5875%;
+  height:76.425%;
+  margin-top:13.75%;
+  content:url(../assets/GameSelection_img/Icon_2.png);
+}
+.Icon-2-outer{
+    
+
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Outline-Media-Headse{
+  position:relative;
+
+    
+  margin-left:761px;
+  width:80px;
+  min-width:80px;
+  height:80px;
+  margin-top:-1108px;
+  margin-bottom:1028px;
+  min-height:80px;
+}
+.Outline-Media-Headse-outer{
+
+  position:relative;
+  display:flex;
+}
+.Icon-4{
+  position:relative;
+
+    
+  margin-left:10%;
+  width:81.25%;
+  height:82.2875%;
+  margin-top:15%;
+  content:url(../assets/GameSelection_img/Icon_4.png);
+}
+.Icon-4-outer{
+    
+
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Outline-Communicatio-1{
+  position:relative;
+
+    
+  margin-left:1520px;
+  width:80px;
+  min-width:80px;
+  height:80px;
+  margin-top:-1106px;
+  margin-bottom:1026px;
+  min-height:80px;
+}
+.Outline-Communicatio-1-outer{
+    
+
+  position:relative;
+  display:flex;
+}
+.Icon-3{
+  position:relative;
+  
+    
+  margin-left:18.750000000000007%;
+  width:62.762500000000024%;
+  height:78.6375%;
+  margin-top:11.250000000000004%;
+  content:url(../assets/GameSelection_img/Icon_3.png);
+}
+.Icon-3-outer{
+    
+ 
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.C-MMS{
+  position:relative;
+
+    
+  margin-left:718px;
+  width:670px;
+  min-width:670px;
+  margin-top:-1101px;
+  margin-bottom:1040px;
+  min-height:61px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:72px;
+  line-height:82.66667175292969px;
+}
+.C-MMS-outer{
+    
+
+  position:relative;
+  display:flex;
+}
+.Outline-Interface-Me{
+  position:relative;
+ 
+    
+  margin-left:1620px;
+  width:70px;
+  min-width:70px;
+  height:70px;
+  margin-top:-1101px;
+  margin-bottom:1031px;
+  min-height:70px;
+}
+.Outline-Interface-Me-outer{
+    
+
+  position:relative;
+  display:flex;
+}
+.Icon-5{
+  position:relative;
+
+    
+  margin-left:17.14285714285715%;
+  width:64.58571428571432%;
+  height:47.91428571428571%;
+  margin-top:-2.857142857142858%;
+  content:url(../assets/GameSelection_img/Icon_5.png);
+}
+.Icon-5-outer{
+    
+
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Games{
+  position:relative;
+
+    
+  margin-left:221px;
+  width:145px;
+  min-width:145px;
+  margin-top:-1098px;
+  margin-bottom:1055px;
+  min-height:43px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+}
+.Games-outer{
+    
+
+  position:relative;
+  display:flex;
+}
+.Choose-Your-Game{
+  position:relative;
+
+    
+  margin-left:555px;
+  width:1005px;
+  min-width:1005px;
+  margin-top:-1005px;
+  margin-bottom:905px;
+  min-height:100px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:64px;
+  line-height:73.60000610351562px;
+}
+.Choose-Your-Game-outer{
+    
+
+  position:relative;
+  display:flex;
+}
+.wow-3{
+  position:relative;
+
+    
+  margin-left:1372px;
+  width:193px;
+  min-width:193px;
+  height:265px;
+  margin-top:-849px;
+  margin-bottom:584px;
+  min-height:265px;
+  background-image:url(../assets/GameSelection_img/wow_3.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border-radius:8px;
+}
+.wow-3-outer{
+    
+
+  position:relative;
+  display:flex;
+}
+.image-16{
+  position:relative;
+  z-index:32;
+    
+  margin-left:1127px;
+  width:193px;
+  min-width:193px;
+  height:265px;
+  margin-top:-849px;
+  margin-bottom:584px;
+  min-height:265px;
+  background-image:url(../assets/GameSelection_img/image_16.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border-radius:8px;
+}
+.image-16-outer{
+    
+  z-index:32;
+  position:relative;
+  display:flex;
+}
+.image-15{
+  position:relative;
+  z-index:31;
+    
+  margin-left:890px;
+  width:193px;
+  min-width:193px;
+  height:265px;
+  margin-top:-849px;
+  margin-bottom:584px;
+  min-height:265px;
+  background-image:url(../assets/GameSelection_img/image_15.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border-radius:8px;
+}
+.image-15-outer{
+    
+  z-index:31;
+  position:relative;
+  display:flex;
+}
+.image-22{
+  position:relative;
+  z-index:27;
+    
+  margin-left:643px;
+  width:193px;
+  min-width:193px;
+  height:265px;
+  margin-top:-849px;
+  margin-bottom:584px;
+  min-height:265px;
+  background-image:url(../assets/GameSelection_img/image_22.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border:1px solid rgba(0, 0, 0, 1);
+  box-sizing:border-box;
+  border-radius:8px;
+}
+.image-22-outer{
+    
+  z-index:27;
+  position:relative;
+  display:flex;
+}
+.image-14{
+  position:relative;
+  z-index:26;
+    
+  margin-left:407px;
+  width:193px;
+  min-width:193px;
+  height:265px;
+  margin-top:-843px;
+  margin-bottom:578px;
+  min-height:265px;
+  background-image:url(../assets/GameSelection_img/image_14.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border-radius:8px;
+}
+.image-14-outer{
+    
+  z-index:26;
+  position:relative;
+  display:flex;
+}
+.q300px-RuneScape-cov-1{
+  position:relative;
+  z-index:22;
+    
+  margin-left:161px;
+  width:176.67px;
+  min-width:176.67px;
+  height:265px;
+  margin-top:-843px;
+  margin-bottom:578px;
+  min-height:265px;
+  background-image:url(../assets/GameSelection_img/_300px_RuneScape_cover_1.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border-radius:8px;
+}
+.q300px-RuneScape-cov-1-outer{
+    
+  z-index:22;
+  position:relative;
+  display:flex;
+}
+.Rectangle-38{
+  position:relative;
+  z-index:21;
+    
+  margin-left:116px;
+  width:252px;
+  min-width:252px;
+  height:4px;
+  margin-top:-823px;
+  margin-bottom:819px;
+  min-height:4px;
+  content:url(../assets/GameSelection_img/Rectangle_38.png);
+}
+.Rectangle-38-outer{
+    
+  z-index:21;
+  position:relative;
+  display:flex;
+}
+.Rectangle-43{
+  position:relative;
+  z-index:47;
+    
+  transform:rotate(-90deg);
+  margin-left:820px;
+  width:5px;
+  min-width:5px;
+  height:588px;
+  margin-top:-1207px;
+  margin-bottom:619px;
+  min-height:588px;
+  background:linear-gradient(180deg, rgba(0, 194, 255, 1) -3.0616171314629196e-15%, rgba(253, 0, 121, 1) 99.99999999999997%);
+}
+.Rectangle-43-outer{
+    
+  z-index:47;
+  position:relative;
+  display:flex;
+}
+.RuneScape-1{
+  position:relative;
+  z-index:23;
+    
+  margin-left:157px;
+  width:205px;
+  min-width:205px;
+  margin-top:-572px;
+  margin-bottom:560px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+}
+.RuneScape-1-outer{
+    
+  z-index:23;
+  position:relative;
+  display:flex;
+}
+.Rocket-League-1{
+  position:relative;
+  z-index:28;
+    
+  margin-left:881px;
+  width:205px;
+  min-width:205px;
+  margin-top:-585px;
+  margin-bottom:573px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+}
+.Rocket-League-1-outer{
+    
+  z-index:28;
+  position:relative;
+  display:flex;
+}
+.MapleStory-1{
+  position:relative;
+  z-index:25;
+    
+  margin-left:401px;
+  width:205px;
+  min-width:205px;
+  margin-top:-601px;
+  margin-bottom:589px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+}
+.MapleStory-1-outer{
+    
+  z-index:25;
+  position:relative;
+  display:flex;
+}
+.Diablo-1{
+  position:relative;
+  z-index:24;
+    
+  margin-left:637px;
+  width:205px;
+  min-width:205px;
+  margin-top:-616px;
+  margin-bottom:604px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+}
+.Diablo-1-outer{
+    
+  z-index:24;
+  position:relative;
+  display:flex;
+}
+.World-of-Warships-1{
+  position:relative;
+  z-index:29;
+    
+  margin-left:1355px;
+  width:205px;
+  min-width:205px;
+  margin-top:-639px;
+  margin-bottom:627px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+}
+.World-of-Warships-1-outer{
+    
+  z-index:29;
+  position:relative;
+  display:flex;
+}
+.League-Of-Legends-1{
+  position:relative;
+  z-index:30;
+    
+  margin-left:1124px;
+  width:205px;
+  min-width:205px;
+  margin-top:-682px;
+  margin-bottom:670px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+}
+.League-Of-Legends-1-outer{
+    
+  z-index:30;
+  position:relative;
+  display:flex;
+}
+.wow-4{
+  position:relative;
+  z-index:46;
+    
+  margin-left:1377px;
+  width:193px;
+  min-width:193px;
+  height:265px;
+  margin-top:-638px;
+  margin-bottom:373px;
+  min-height:265px;
+  background-image:url(../assets/GameSelection_img/wow_4.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border-radius:8px;
+}
+.wow-4-outer{
+    
+  z-index:46;
+  position:relative;
+  display:flex;
+}
+.image-26{
+  position:relative;
+  z-index:45;
+    
+  margin-left:1132px;
+  width:193px;
+  min-width:193px;
+  height:265px;
+  margin-top:-638px;
+  margin-bottom:373px;
+  min-height:265px;
+  background-image:url(../assets/GameSelection_img/image_26.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border-radius:8px;
+}
+.image-26-outer{
+    
+  z-index:45;
+  position:relative;
+  display:flex;
+}
+.image-25{
+  position:relative;
+  z-index:44;
+    
+  margin-left:897px;
+  width:193px;
+  min-width:193px;
+  height:265px;
+  margin-top:-638px;
+  margin-bottom:373px;
+  min-height:265px;
+  background-image:url(../assets/GameSelection_img/image_25.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border-radius:8px;
+}
+.image-25-outer{
+    
+  z-index:44;
+  position:relative;
+  display:flex;
+}
+.image-24{
+  position:relative;
+  z-index:40;
+    
+  margin-left:648px;
+  width:193px;
+  min-width:193px;
+  height:265px;
+  margin-top:-638px;
+  margin-bottom:373px;
+  min-height:265px;
+  background-image:url(../assets/GameSelection_img/image_24.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border:1px solid rgba(0, 0, 0, 1);
+  box-sizing:border-box;
+  border-radius:8px;
+}
+.image-24-outer{
+    
+  z-index:40;
+  position:relative;
+  display:flex;
+}
+.image-23{
+  position:relative;
+  z-index:39;
+    
+  margin-left:412px;
+  width:193px;
+  min-width:193px;
+  height:265px;
+  margin-top:-638px;
+  margin-bottom:373px;
+  min-height:265px;
+  background-image:url(../assets/GameSelection_img/image_23.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border-radius:8px;
+}
+.image-23-outer{
+    
+  z-index:39;
+  position:relative;
+  display:flex;
+}
+.q300px-RuneScape-cov{
+  position:relative;
+  z-index:35;
+    
+  margin-left:166px;
+  width:176.67px;
+  min-width:176.67px;
+  height:265px;
+  margin-top:-638px;
+  margin-bottom:373px;
+  min-height:265px;
+  background-image:url(../assets/GameSelection_img/_300px_RuneScape_cover_2.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border-radius:8px;
+}
+.q300px-RuneScape-cov-outer{
+    
+  z-index:35;
+  position:relative;
+  display:flex;
+}
+.Rectangle-39{
+  position:relative;
+  z-index:34;
+    
+  margin-left:121px;
+  width:252px;
+  min-width:252px;
+  height:4px;
+  margin-top:-418px;
+  margin-bottom:414px;
+  min-height:4px;
+  content:url(../assets/GameSelection_img/Rectangle_39.png);
+}
+.Rectangle-39-outer{
+    
+  z-index:34;
+  position:relative;
+  display:flex;
+}
+.RuneScape{
+  position:relative;
+  z-index:36;
+    
+  margin-left:162px;
+  width:205px;
+  min-width:205px;
+  margin-top:-370px;
+  margin-bottom:358px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+}
+.RuneScape-outer{
+    
+  z-index:36;
+  position:relative;
+  display:flex;
+}
+.Rocket-League{
+  position:relative;
+  z-index:41;
+    
+  margin-left:888px;
+  width:205px;
+  min-width:205px;
+  margin-top:-383px;
+  margin-bottom:371px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+}
+.Rocket-League-outer{
+    
+  z-index:41;
+  position:relative;
+  display:flex;
+}
+.MapleStory{
+  position:relative;
+  z-index:38;
+    
+  margin-left:406px;
+  width:205px;
+  min-width:205px;
+  margin-top:-399px;
+  margin-bottom:387px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+}
+.MapleStory-outer{
+    
+  z-index:38;
+  position:relative;
+  display:flex;
+}
+.Diablo{
+  position:relative;
+  z-index:37;
+    
+  margin-left:642px;
+  width:205px;
+  min-width:205px;
+  margin-top:-413px;
+  margin-bottom:401px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+}
+.Diablo-outer{
+    
+  z-index:37;
+  position:relative;
+  display:flex;
+}
+.World-of-Warships{
+  position:relative;
+  z-index:42;
+    
+  margin-left:1360px;
+  width:205px;
+  min-width:205px;
+  margin-top:-433px;
+  margin-bottom:421px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+}
+.World-of-Warships-outer{
+    
+  z-index:42;
+  position:relative;
+  display:flex;
+}
+.League-Of-Legends{
+  position:relative;
+  z-index:43;
+    
+  margin-left:1129px;
+  width:205px;
+  min-width:205px;
+  margin-top:-473px;
+  margin-bottom:461px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+}
+.League-Of-Legends-outer{
+    
+  z-index:43;
+  position:relative;
+  display:flex;
+}
+.Icon{
+  position:relative;
+  z-index:19;
+    
+  margin-left:7.986111111111111%;
+  width:4.050925925925926%;
+  height:5.371530886302597%;
+  margin-top:1.099537037037037%;
+  content:url(../assets/GameSelection_img/Icon.png);
+}
+.Icon-outer{
+    
+  z-index:19;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}

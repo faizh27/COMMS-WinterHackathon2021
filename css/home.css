@@ -1,0 +1,1538 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+   
+
+}
+.Frame{
+  position:relative;
+
+   
+  width:100%;
+  margin-left:0;
+  height:1117px;
+  min-width:200px;
+  max-width:1728px;
+  margin:auto;
+  background-color:rgba(64, 66, 73, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+   
+
+}
+.Rectangle-31{
+  position:relative;
+
+   
+  margin-left:0px;
+  width:194px;
+  min-width:194px;
+  height:102px;
+  margin-top:0px;
+  margin-bottom:1015px;
+  min-height:102px;
+  background-color:rgba(27, 28, 30, 1);
+}
+.Rectangle-31-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Rectangle-2{
+  position:relative;
+ 
+   
+  margin-left:0px;
+  width:1728px;
+  min-width:1728px;
+  height:102px;
+  margin-top:-1117px;
+  margin-bottom:1015px;
+  min-height:102px;
+  background-color:rgba(36, 37, 43, 1);
+}
+.Rectangle-2-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Rectangle-1{
+  position:relative;
+
+   
+  margin-left:0px;
+  width:1728px;
+  min-width:1728px;
+  height:102px;
+  margin-top:-1117px;
+  margin-bottom:1015px;
+  min-height:102px;
+  background-color:rgba(40, 42, 48, 1);
+}
+.Rectangle-1-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Outline-Communicatio{
+  position:relative;
+
+   
+  margin-left:336px;
+  width:90px;
+  min-width:90px;
+  height:90px;
+  margin-top:-1110px;
+  margin-bottom:1020px;
+  min-height:90px;
+}
+.Outline-Communicatio-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Icon{
+  position:relative;
+
+   
+  margin-left:13.333333333333337%;
+  width:71.7666666666667%;
+  height:59.75555555555555%;
+  margin-top:18.888888888888896%;
+  content:url(../assets/home_img/Icon.png);
+}
+.Icon-outer{
+   
+
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Outline-General-Home{
+  position:relative;
+
+   
+  margin-left:25px;
+  width:80px;
+  min-width:80px;
+  height:80px;
+  margin-top:-1108px;
+  margin-bottom:1028px;
+  min-height:80px;
+}
+.Outline-General-Home-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Icon-1{
+  position:relative;
+
+   
+  margin-left:15%;
+  width:69.5875%;
+  height:76.425%;
+  margin-top:13.75%;
+  content:url(../assets/home_img/Icon_1.png);
+}
+.Icon-1-outer{
+   
+
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Outline-Media-Headse{
+  position:relative;
+
+   
+  margin-left:761px;
+  width:80px;
+  min-width:80px;
+  height:80px;
+  margin-top:-1108px;
+  margin-bottom:1028px;
+  min-height:80px;
+}
+.Outline-Media-Headse-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Icon-4{
+  position:relative;
+
+   
+  margin-left:10%;
+  width:81.25%;
+  height:82.2875%;
+  margin-top:20%;
+  content:url(../assets/home_img/Icon_4.png);
+}
+.Icon-4-outer{
+   
+
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Outline-Communicatio-1{
+  position:relative;
+
+   
+  margin-left:1520px;
+  width:80px;
+  min-width:80px;
+  height:80px;
+  margin-top:-1106px;
+  margin-bottom:1026px;
+  min-height:80px;
+}
+.Outline-Communicatio-1-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Icon-3{
+  position:absolute;
+
+   z-index: 1000;
+  margin-left:18.750000000000007%;
+  width:62.762500000000024%;
+  height:78.6375%;
+  margin-top:11.250000000000004%;
+  content:url(../assets/home_img/Icon_3.png);
+}
+.Icon-3-outer{
+   
+
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  
+}
+.C-MMS{
+  position:relative;
+
+   
+  margin-left:718px;
+  width:670px;
+  min-width:670px;
+  margin-top:-1101px;
+  margin-bottom:1040px;
+  min-height:61px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:72px;
+  line-height:82.66667175292969px;
+}
+.C-MMS-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Outline-Interface-Me{
+  position:relative;
+
+   
+  margin-left:1620px;
+  width:70px;
+  min-width:70px;
+  height:70px;
+  margin-top:-1101px;
+  margin-bottom:1031px;
+  min-height:70px;
+}
+.Outline-Interface-Me-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Icon-5{
+  position:relative;
+
+   
+  margin-left:17.14285714285715%;
+  width:64.58571428571432%;
+  height:47.91428571428571%;
+  margin-top:25.714285714285726%;
+  content:url(../assets/home_img/Icon_5.png);
+}
+.Icon-5-outer{
+   
+
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Home{
+  position:relative;
+
+   
+  margin-left:110px;
+  width:145px;
+  min-width:145px;
+  margin-top:-1086px;
+  margin-bottom:1043px;
+  min-height:43px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+}
+.Home-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Welcome-back--Gamer1{
+  position:relative;
+  
+   
+  margin-left:348px;
+  width:1137px;
+  min-width:1137px;
+  margin-top:-969px;
+  margin-bottom:869px;
+  min-height:100px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:70px;
+  line-height:80.53334045410156px;
+  text-shadow:10px 10px 4px rgba(0, 0, 0, 0.25);
+}
+.Welcome-back--Gamer1-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Friends{
+  position:relative;
+
+   
+  margin-left:1007px;
+  width:373px;
+  min-width:373px;
+  margin-top:-840px;
+  margin-bottom:773px;
+  min-height:67px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:36px;
+  line-height:41.06666946411133px;
+}
+.Friends-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Recent-Games{
+  position:relative;
+
+   
+  margin-left:132px;
+  width:373px;
+  min-width:373px;
+  margin-top:-838px;
+  margin-bottom:771px;
+  min-height:67px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:36px;
+  line-height:41.06666946411133px;
+}
+.Recent-Games-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.image-22{
+  position:relative;
+
+   
+  margin-left:658px;
+  width:193px;
+  min-width:193px;
+  height:265px;
+  margin-top:-771px;
+  margin-bottom:506px;
+  min-height:265px;
+  background-image:url(../assets/home_img/image_22.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border:1px solid rgba(0, 0, 0, 1);
+  box-sizing:border-box;
+  border-radius:8px;
+}
+.image-22-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.image-14{
+  position:relative;
+
+   
+  margin-left:422px;
+  width:193px;
+  min-width:193px;
+  height:265px;
+  margin-top:-765px;
+  margin-bottom:500px;
+  min-height:265px;
+  background-image:url(../assets/home_img/image_14.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border-radius:8px;
+}
+.image-14-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.q300px-RuneScape-cov{
+  position:relative;
+
+   
+  margin-left:176px;
+  width:176.67px;
+  min-width:176.67px;
+  height:265px;
+  margin-top:-765px;
+  margin-bottom:500px;
+  min-height:265px;
+  background-image:url(../assets/home_img/_300px_RuneScape_cover_1.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border-radius:8px;
+}
+.q300px-RuneScape-cov-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Ellipse-2{
+  position:relative;
+
+   
+  margin-left:1026px;
+  width:85px;
+  min-width:85px;
+  height:85px;
+  margin-top:-751px;
+  margin-bottom:666px;
+  min-height:85px;
+  content:url(../assets/home_img/Ellipse_2.png);
+}
+.Ellipse-2-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Rectangle-38{
+  position:relative;
+
+   
+  margin-left:131px;
+  width:252px;
+  min-width:252px;
+  height:4px;
+  margin-top:-745px;
+  margin-bottom:741px;
+  min-height:4px;
+  content:url(../assets/home_img/Rectangle_38.png);
+}
+.Rectangle-38-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.a4-1{
+  position:relative;
+
+   
+  margin-left:1035px;
+  width:66px;
+  min-width:66px;
+  height:68px;
+  margin-top:-744px;
+  margin-bottom:676px;
+  min-height:68px;
+  content:url(../assets/home_img/a4_1.png);
+}
+.a4-1-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Ggnerd101{
+  position:relative;
+
+   
+  margin-left:1023px;
+  width:394px;
+  min-width:394px;
+  margin-top:-737px;
+  margin-bottom:705px;
+  min-height:32px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:28px;
+  line-height:32.5333366394043px;
+  text-shadow:20px 20px 4px rgba(0, 0, 0, 0.25);
+}
+.Ggnerd101-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Rectangle-43{
+  position:relative;
+
+   
+  transform:rotate(-90deg);
+  margin-left:1077px;
+  width:4px;
+  min-width:4px;
+  height:131px;
+  margin-top:-847px;
+  margin-bottom:716px;
+  min-height:131px;
+  background:linear-gradient(180deg, rgba(0, 194, 255, 1) -3.0616171314629196e-15%, rgba(253, 0, 121, 1) 99.99999999999997%);
+}
+.Rectangle-43-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Online{
+  position:relative;
+
+   
+  margin-left:1013px;
+  width:394px;
+  min-width:394px;
+  margin-top:-705px;
+  margin-bottom:673px;
+  min-height:32px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:20px;
+  line-height:22.933334350585938px;
+  text-shadow:20px 20px 4px rgba(0, 0, 0, 0.25);
+}
+.Online-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Ellipse-8{
+  position:relative;
+
+   
+  margin-left:1146px;
+  width:20px;
+  min-width:20px;
+  height:20px;
+  margin-top:-698px;
+  margin-bottom:678px;
+  min-height:20px;
+  content:url(../assets/home_img/Ellipse_8.png);
+}
+.Ellipse-8-outer{
+   
+  
+  position:relative;
+  display:flex;
+}
+.Rectangle-40{
+  position:relative;
+
+   
+  transform:rotate(-90deg);
+  margin-left:264px;
+  width:4px;
+  min-width:4px;
+  height:252px;
+  margin-top:-907px;
+  margin-bottom:655px;
+  min-height:252px;
+  background:linear-gradient(180deg, rgba(0, 194, 255, 1) -3.0616171314629196e-15%, rgba(253, 0, 121, 1) 99.99999999999999%);
+}
+.Rectangle-40-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Ellipse-12{
+  position:relative;
+
+   
+  margin-left:1029px;
+  width:85px;
+  min-width:85px;
+  height:85px;
+  margin-top:-643px;
+  margin-bottom:558px;
+  min-height:85px;
+  content:url(../assets/home_img/Ellipse_12.png);
+}
+.Ellipse-12-outer{
+   
+  z-index:60;
+  position:relative;
+  display:flex;
+}
+.MikasaXD{
+  position:relative;
+
+   
+  margin-left:1137px;
+  width:308px;
+  min-width:308px;
+  margin-top:-639px;
+  margin-bottom:607px;
+  min-height:32px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:28px;
+  line-height:32.5333366394043px;
+  text-shadow:20px 20px 4px rgba(0, 0, 0, 0.25);
+}
+.MikasaXD-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.a5-1{
+  position:relative;
+
+   
+  margin-left:1039px;
+  width:62px;
+  min-width:62px;
+  height:70px;
+  margin-top:-636px;
+  margin-bottom:566px;
+  min-height:70px;
+  content:url(../assets/home_img/a5_1.png);
+}
+.a5-1-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Away{
+  position:relative;
+
+   
+  margin-left:1015px;
+  width:394px;
+  min-width:394px;
+  margin-top:-609px;
+  margin-bottom:577px;
+  min-height:32px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:20px;
+  line-height:22.933334350585938px;
+  text-shadow:20px 20px 4px rgba(0, 0, 0, 0.25);
+}
+.Away-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Ellipse-10{
+  position:relative;
+
+   
+  margin-left:1149px;
+  width:20px;
+  min-width:20px;
+  height:20px;
+  margin-top:-603px;
+  margin-bottom:583px;
+  min-height:20px;
+  content:url(../assets/home_img/Ellipse_10.png);
+}
+.Ellipse-10-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Ellipse-9{
+  position:relative;
+
+   
+  margin-left:1149px;
+  width:20px;
+  min-width:20px;
+  height:20px;
+  margin-top:-603px;
+  margin-bottom:583px;
+  min-height:20px;
+  content:url(../assets/home_img/Ellipse_9.png);
+}
+.Ellipse-9-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Ellipse-13{
+  position:relative;
+
+   
+  margin-left:1029px;
+  width:85px;
+  min-width:85px;
+  height:85px;
+  margin-top:-537px;
+  margin-bottom:452px;
+  min-height:85px;
+  content:url(../assets/home_img/Ellipse_13.png);
+}
+.Ellipse-13-outer{
+   
+  z-index:61;
+  position:relative;
+  display:flex;
+}
+.a6-1{
+  position:relative;
+
+   
+  margin-left:1036px;
+  width:70px;
+  min-width:70px;
+  height:70px;
+  margin-top:-530px;
+  margin-bottom:460px;
+  min-height:70px;
+  content:url(../assets/home_img/a6_1.png);
+}
+.a6-1-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.KyleO276{
+  position:relative;
+
+   
+  margin-left:1132px;
+  width:307px;
+  min-width:307px;
+  margin-top:-527px;
+  margin-bottom:495px;
+  min-height:32px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:28px;
+  line-height:32.5333366394043px;
+  text-shadow:20px 20px 4px rgba(0, 0, 0, 0.25);
+}
+.KyleO276-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.In-game{
+  position:relative;
+
+   
+  margin-left:1029px;
+  width:394px;
+  min-width:394px;
+  margin-top:-495px;
+  margin-bottom:463px;
+  min-height:32px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:20px;
+  line-height:22.933334350585938px;
+  text-shadow:20px 20px 4px rgba(0, 0, 0, 0.25);
+}
+.In-game-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Ellipse-11{
+  position:relative;
+
+   
+  margin-left:1149px;
+  width:20px;
+  min-width:20px;
+  height:20px;
+  margin-top:-487px;
+  margin-bottom:467px;
+  min-height:20px;
+  content:url(../assets/home_img/Ellipse_11.png);
+}
+.Ellipse-11-outer{
+   
+  z-index:65;  position:relative;
+  display:flex;
+}
+.RuneScape{
+  position:relative;
+
+   
+  margin-left:172px;
+  width:205px;
+  min-width:205px;
+  margin-top:-479px;
+  margin-bottom:467px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+  text-shadow:10px 10px 4px rgba(0, 0, 0, 0.25);
+}
+.RuneScape-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.MapleStory{
+  position:relative;
+
+   
+  margin-left:416px;
+  width:205px;
+  min-width:205px;
+  margin-top:-473px;
+  margin-bottom:461px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+  text-shadow:10px 10px 4px rgba(0, 0, 0, 0.25);
+}
+.MapleStory-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Diablo{
+  position:relative;
+
+   
+  margin-left:652px;
+  width:205px;
+  min-width:205px;
+  margin-top:-473px;
+  margin-bottom:461px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+  text-shadow:10px 10px 4px rgba(0, 0, 0, 0.25);
+}
+.Diablo-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Favorites{
+  position:relative;
+
+   
+  margin-left:137px;
+  width:373px;
+  min-width:373px;
+  margin-top:-454px;
+  margin-bottom:387px;
+  min-height:67px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:36px;
+  line-height:41.06666946411133px;
+}
+.Favorites-outer{
+   
+  z-index:21;  position:relative;
+  display:flex;
+}
+.Recent-Teamates{
+  position:relative;
+
+   
+  margin-left:1013px;
+  width:373px;
+  min-width:373px;
+  margin-top:-444px;
+  margin-bottom:377px;
+  min-height:67px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:36px;
+  line-height:41.06666946411133px;
+}
+.Recent-Teamates-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Rectangle-37{
+  position:relative;
+ 
+   
+  transform:rotate(-90deg);
+  margin-left:860px;
+  width:5px;
+  min-width:5px;
+  height:986px;
+  margin-top:-382px;
+  margin-bottom:-604px;
+  min-height:986px;
+  background:linear-gradient(180deg, rgba(0, 194, 255, 1) -3.0616171314629196e-15%, rgba(253, 0, 121, 1) 99.99999999999999%);
+}
+.Rectangle-37-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.wow-3{
+  position:relative;
+
+   
+  margin-left:658px;
+  width:193px;
+  min-width:193px;
+  height:265px;
+  margin-top:-374px;
+  margin-bottom:109px;
+  min-height:265px;
+  background-image:url(../assets/home_img/wow_3.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border-radius:8px;
+}
+.wow-3-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.image-16{
+  position:relative;
+
+   
+  margin-left:413px;
+  width:193px;
+  min-width:193px;
+  height:265px;
+  margin-top:-374px;
+  margin-bottom:109px;
+  min-height:265px;
+  background-image:url(../assets/home_img/image_16.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border-radius:8px;
+}
+.image-16-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.image-15{
+  position:relative;
+
+   
+  margin-left:176px;
+  width:193px;
+  min-width:193px;
+  height:265px;
+  margin-top:-374px;
+  margin-bottom:109px;
+  min-height:265px;
+  background-image:url(../assets/home_img/image_15.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+  border-radius:8px;
+}
+.image-15-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Rectangle-42{
+  position:relative;
+
+   
+  margin-left:136px;
+  width:252px;
+  min-width:252px;
+  height:4px;
+  margin-top:-354px;
+  margin-bottom:350px;
+  min-height:4px;
+  content:url(../assets/home_img/Rectangle_42.png);
+}
+.Rectangle-42-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.a1-1{
+  position:relative;
+
+   
+  margin-left:1027px;
+  width:85px;
+  min-width:85px;
+  height:85px;
+  margin-top:-381px;
+  margin-bottom:296px;
+  min-height:85px;
+  content:url(../assets/home_img/a1_1.png);
+}
+.a1-1-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Pokemonfan101{
+  position:relative;
+
+   
+  margin-left:1057px;
+  width:394px;
+  min-width:394px;
+  margin-top:-371px;
+  margin-bottom:339px;
+  min-height:32px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:28px;
+  line-height:32.5333366394043px;
+  text-shadow:20px 20px 4px rgba(0, 0, 0, 0.25);
+}
+.Pokemonfan101-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Rectangle-39{
+  position:relative;
+
+   
+  transform:rotate(-90deg);
+  margin-left:225px;
+  width:4px;
+  min-width:4px;
+  height:170px;
+  margin-top:-482px;
+  margin-bottom:312px;
+  min-height:170px;
+  background:linear-gradient(180deg, rgba(0, 194, 255, 1) -3.0616171314629196e-15%, rgba(253, 0, 121, 1) 99.99999999999997%);
+}
+.Rectangle-39-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.q2-hours-ago-2{
+  position:relative;
+
+   
+  margin-left:1005px;
+  width:394px;
+  min-width:394px;
+  margin-top:-339px;
+  margin-bottom:307px;
+  min-height:32px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:20px;
+  line-height:22.933334350585938px;
+  text-shadow:20px 20px 4px rgba(0, 0, 0, 0.25);
+}
+.q2-hours-ago-2-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.a2-1{
+  position:relative;
+
+   
+  margin-left:1027px;
+  width:85px;
+  min-width:85px;
+  height:85px;
+  margin-top:-293px;
+  margin-bottom:208px;
+  min-height:85px;
+  content:url(../assets/home_img/a2_1.png);
+}
+.a2-1-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Ellipse-1{
+  position:relative;
+
+   
+  margin-left:1027px;
+  width:85px;
+  min-width:85px;
+  height:85px;
+  margin-top:-293px;
+  margin-bottom:208px;
+  min-height:85px;
+  content:url(../assets/home_img/Ellipse_1.png);
+}
+.Ellipse-1-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.XxSypherxX{
+  position:relative;
+
+   
+  margin-left:1143px;
+  width:308px;
+  min-width:308px;
+  margin-top:-273px;
+  margin-bottom:241px;
+  min-height:32px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:28px;
+  line-height:32.5333366394043px;
+  text-shadow:20px 20px 4px rgba(0, 0, 0, 0.25);
+}
+.XxSypherxX-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Rectangle-41{
+  position:relative;
+
+   
+  transform:rotate(-90deg);
+  margin-left:1168px;
+  width:4px;
+  min-width:4px;
+  height:301px;
+  margin-top:-537px;
+  margin-bottom:236px;
+  min-height:301px;
+  background:linear-gradient(180deg, rgba(0, 194, 255, 1) -3.0616171314629196e-15%, rgba(253, 0, 121, 1) 99.99999999999997%);
+}
+.Rectangle-41-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.q2-hours-ago{
+  position:relative;
+
+   
+  margin-left:1005px;
+  width:394px;
+  min-width:394px;
+  margin-top:-241px;
+  margin-bottom:209px;
+  min-height:32px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:20px;
+  line-height:22.933334350585938px;
+  text-shadow:20px 20px 4px rgba(0, 0, 0, 0.25);
+}
+.q2-hours-ago-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.a3-1{
+  position:relative;
+
+   
+  margin-left:1027px;
+  width:84px;
+  min-width:84px;
+  height:84px;
+  margin-top:-201px;
+  margin-bottom:117px;
+  min-height:84px;
+  content:url(../assets/home_img/a3_1.png);
+}
+.a3-1-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.GamingCacti{
+  position:relative;
+
+   
+  margin-left:1138px;
+  width:307px;
+  min-width:307px;
+  margin-top:-201px;
+  margin-bottom:169px;
+  min-height:32px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:28px;
+  line-height:32.5333366394043px;
+  text-shadow:20px 20px 4px rgba(0, 0, 0, 0.25);
+}
+.GamingCacti-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.q2-hours-ago-1{
+  position:relative;
+ 
+   
+  margin-left:1005px;
+  width:394px;
+  min-width:43px;
+  margin-top:-167px;
+  margin-bottom:135px;
+  min-height:32px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:20px;
+  line-height:22.933334350585938px;
+  text-shadow:20px 20px 4px rgba(0, 0, 0, 0.25);
+}
+.q2-hours-ago-1-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Rocket-League{
+  position:relative;
+
+   
+  margin-left:167px;
+  width:205px;
+  min-width:205px;
+  margin-top:-80px;
+  margin-bottom:68px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+  text-shadow:20px 20px 4px rgba(0, 0, 0, 0.25);
+}
+.Rocket-League-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.World-of-Warships{
+  position:relative;
+
+   
+  margin-left:641px;
+  width:205px;
+  min-width:205px;
+  margin-top:-64px;
+  margin-bottom:52px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+  text-shadow:20px 20px 4px rgba(0, 0, 0, 0.25);
+}
+.World-of-Warships-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.League-Of-Legends{
+  position:relative;
+
+   
+  margin-left:410px;
+  width:205px;
+  min-width:205px;
+  margin-top:-63px;
+  margin-bottom:51px;
+  min-height:12px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:27.733335494995117px;
+  text-shadow:20px 20px 4px rgba(0, 0, 0, 0.25);
+}
+.League-Of-Legends-outer{
+   
+
+  position:relative;
+  display:flex;
+}
+.Icon-2{
+  position:absolute;
+  margin-left:13.310185185185185%;
+  width:4.050925925925926%;
+  height:5.371530886302597%;
+  margin-top:1.2152777777777777%;
+  content:url(../assets/home_img/Icon_2.png);
+}
+.Icon-2-outer{
+   
+
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}

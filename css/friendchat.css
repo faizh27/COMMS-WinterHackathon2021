@@ -1,0 +1,430 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v6_388 {
+  width: 496px;
+  height: 774px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v6_343 {
+  width: 474px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 235px;
+  left: 106px;
+  font-family: Mplus 1p Bold;
+  font-weight: Bold;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_344 {
+  width: 474px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 274px;
+  left: 72px;
+  font-family: Mplus 1p Bold;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_345 {
+  width: 474px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 235px;
+  left: 106px;
+  font-family: Mplus 1p Bold;
+  font-weight: Bold;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_346 {
+  width: 474px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 274px;
+  left: 72px;
+  font-family: Mplus 1p Bold;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_347 {
+  width: 496px;
+  height: 774px;
+  background: rgba(64,66,73,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v80_121 {
+  width: 486px;
+  height: 357px;
+  background: url("../assets/friendchat_img/v80_121.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 390px;
+  left: 10px;
+  overflow: hidden;
+  
+}
+.v68_239 {
+  width: 4px;
+  height: 171px;
+  background: linear-gradient(rgba(0,193,255,1), rgba(252,0,121,1));
+  opacity: 1;
+  position: absolute;
+  top: -30px;
+  left: 105px;
+  transform: rotate(-90deg);
+  overflow: hidden;
+}
+.v68_238 {
+  width: 373px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 6px;
+  left: 19px;
+  font-family: Mplus 1p Bold;
+  font-weight: Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v80_122 {
+  width: 320px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 293px;
+  left: 99px;
+  font-family: Mplus 1p Bold;
+  font-weight: Bold;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v80_123 {
+  width: 410px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 138px;
+  left: 38px;
+  font-family: Mplus 1p Bold;
+  font-weight: Bold;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
+.v80_124 {
+  width: 321px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 214px;
+  left: 99px;
+  font-family: Mplus 1p Bold;
+  font-weight: Bold;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v80_125 {
+  width: 74px;
+  height: 76px;
+  background: url("../assets/friendchat_img/v80_125.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 256px;
+  left: 39px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  overflow: hidden;
+}
+.v80_126 {
+  width: 74px;
+  height: 77px;
+  background: url("../assets/friendchat_img/v80_126.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 173px;
+  left: 39px;
+  overflow: hidden;
+}
+.v80_127 {
+  width: 75px;
+  height: 77px;
+  background: url("../assets/friendchat_img/v80_127.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 96px;
+  left: 38px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  overflow: hidden;
+}
+.v80_118 {
+  width: 486px;
+  height: 371px;
+  background: url("../assets/friendchat_img/v80_118.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  left: 10px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v22_217 {
+  width: 4px;
+  height: 131px;
+  background: linear-gradient(rgba(0,193,255,1), rgba(252,0,121,1));
+  opacity: 1;
+  position: absolute;
+  top: -15px;
+  left: 85px;
+  transform: rotate(-90deg);
+  overflow: hidden;
+}
+.v68_240 {
+  width: 353px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 93px;
+  left: 38px;
+  font-family: Mplus 1p Bold;
+  font-weight: Bold;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
+.v68_241 {
+  width: 353px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 122px;
+  left: 29px;
+  font-family: Mplus 1p Bold;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v68_242 {
+  width: 275px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 285px;
+  left: 136px;
+  font-family: Mplus 1p Bold;
+  font-weight: Bold;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v68_243 {
+  width: 353px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 315px;
+  left: 43px;
+  font-family: Mplus 1p Bold;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v68_244 {
+  width: 276px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 183px;
+  left: 140px;
+  font-family: Mplus 1p Bold;
+  font-weight: Bold;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v68_245 {
+  width: 353px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 210px;
+  left: 31px;
+  font-family: Mplus 1p Bold;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v68_246 {
+  width: 76px;
+  height: 78px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 80px;
+  left: 41px;
+  border-radius: 50%;
+}
+.v68_247 {
+  width: 76px;
+  height: 78px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 179px;
+  left: 43px;
+  border-radius: 50%;
+}
+.v68_248 {
+  width: 76px;
+  height: 78px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 276px;
+  left: 43px;
+  border-radius: 50%;
+}
+.v68_249 {
+  width: 18px;
+  height: 18px;
+  background: rgba(0,193,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 129px;
+  left: 148px;
+  border-radius: 50%;
+}
+.v68_250 {
+  width: 18px;
+  height: 18px;
+  background: rgba(239,186,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 216px;
+  left: 151px;
+  border-radius: 50%;
+}
+.v68_251 {
+  width: 18px;
+  height: 18px;
+  background: rgba(187,0,252,1);
+  opacity: 1;
+  position: absolute;
+  top: 216px;
+  left: 151px;
+  border-radius: 50%;
+}
+.v68_252 {
+  width: 18px;
+  height: 18px;
+  background: rgba(252,0,121,1);
+  opacity: 1;
+  position: absolute;
+  top: 322px;
+  left: 151px;
+  border-radius: 50%;
+}
+.v68_253 {
+  width: 59px;
+  height: 63px;
+  background: url("../assets/friendchat_img/v68_253.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 86px;
+  left: 49px;
+  overflow: hidden;
+}
+.v68_254 {
+  width: 56px;
+  height: 65px;
+  background: url("../assets/friendchat_img/v68_254.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 185px;
+  left: 52px;
+  overflow: hidden;
+}
+.v68_255 {
+  width: 62px;
+  height: 64px;
+  background: url("../assets/friendchat_img/v68_255.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 283px;
+  left: 50px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  overflow: hidden;
+}
+.v22_216 {
+  width: 373px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 6px;
+  left: 19px;
+  font-family: Mplus 1p Bold;
+  font-weight: Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}

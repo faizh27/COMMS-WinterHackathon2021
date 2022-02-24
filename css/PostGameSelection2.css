@@ -1,0 +1,1943 @@
+.websiteBody{
+  margin: 0;
+}
+.Page{
+  
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  width:100%;
+  margin-left:0;
+  height:1110px;
+  min-width:200px;
+  max-width:1728px;
+  margin:auto;
+  background-color:rgba(64, 66, 73, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+     
+  z-index:2;
+}
+.Rectangle-31{
+  position:relative;
+  z-index:16;
+     
+  margin-left:121px;
+  width:194px;
+  min-width:194px;
+  height:102px;
+  margin-top:0px;
+  margin-bottom:1008px;
+  min-height:102px;
+  background-color:rgba(27, 28, 30, 1);
+}
+.Rectangle-31-outer{
+     
+  z-index:16;
+  position:relative;
+  display:flex;
+}
+.Rectangle-2{
+  position:relative;
+  z-index:4;
+     
+  margin-left:0px;
+  width:1728px;
+  min-width:1728px;
+  height:102px;
+  margin-top:-1110px;
+  margin-bottom:1008px;
+  min-height:102px;
+  background-color:rgba(36, 37, 43, 1);
+}
+.Rectangle-2-outer{
+     
+  z-index:4;
+  position:relative;
+  display:flex;
+}
+.Rectangle-1{
+  position:relative;
+  z-index:3;
+     
+  margin-left:0px;
+  width:1728px;
+  min-width:1728px;
+  height:102px;
+  margin-top:-1110px;
+  margin-bottom:1008px;
+  min-height:102px;
+  background-color:rgba(40, 42, 48, 1);
+}
+.Rectangle-1-outer{
+     
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.Outline-Communicatio-1{
+  position:relative;
+  z-index:14;
+     
+  margin-left:336px;
+  width:90px;
+  min-width:90px;
+  height:90px;
+  margin-top:-1103px;
+  margin-bottom:1013px;
+  min-height:90px;
+}
+.Outline-Communicatio-1-outer{
+     
+  z-index:14;
+  position:relative;
+  display:flex;
+}
+.Icon-12{
+  position:absolute;
+  z-index:15;
+     
+  margin-left:13.333333333333337%;
+  width:71.7666666666667%;
+  height:59.75555555555555%;
+  margin-top:18.888888888888896%;
+  content:url(../assets/postGameSelection2_img/Icon_12.png);
+}
+.Icon-12-outer{
+     
+  z-index:15;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Outline-General-Home{
+  position:relative;
+  z-index:12;
+     
+  margin-left:25px;
+  width:80px;
+  min-width:80px;
+  height:80px;
+  margin-top:-1101px;
+  margin-bottom:1021px;
+  min-height:80px;
+}
+.Outline-General-Home-outer{
+     
+  z-index:12;
+  position:relative;
+  display:flex;
+}
+.Icon-13{
+  position:relative;
+  z-index:13;
+     
+  margin-left:15%;
+  width:69.5875%;
+  height:76.425%;
+  margin-top:13.75%;
+  content:url(../assets/postGameSelection2_img/Icon_13.png);
+}
+.Icon-13-outer{
+     
+  z-index:13;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Outline-Media-Headse-1{
+  position:relative;
+  z-index:8;
+     
+  margin-left:761px;
+  width:80px;
+  min-width:80px;
+  height:80px;
+  margin-top:-1101px;
+  margin-bottom:1021px;
+  min-height:80px;
+}
+.Outline-Media-Headse-1-outer{
+     
+  z-index:8;
+  position:relative;
+  display:flex;
+}
+.Icon-15{
+  position:relative;
+  z-index:9;
+     
+  margin-left:17.5%;
+  width:81.25%;
+  height:82.2875%;
+  margin-top:18.75%;
+  content:url(../assets/postGameSelection2_img/Icon_15.png);
+}
+.Icon-15-outer{
+     
+  z-index:9;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Outline-Communicatio-2{
+  position:relative;
+  z-index:10;
+     
+  margin-left:1520px;
+  width:80px;
+  min-width:80px;
+  height:80px;
+  margin-top:-1099px;
+  margin-bottom:1019px;
+  min-height:80px;
+}
+.Outline-Communicatio-2-outer{
+     
+  z-index:10;
+  position:relative;
+  display:flex;
+}
+.Icon-14{
+  position:relative;
+  z-index:11;
+     
+  margin-left:18.750000000000007%;
+  width:62.762500000000024%;
+  height:78.6375%;
+  margin-top:11.250000000000004%;
+  content:url(../assets/postGameSelection2_img/Icon_14.png);
+}
+.Icon-14-outer{
+     
+  z-index:11;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.C-MMS{
+  position:relative;
+  z-index:7;
+     
+  margin-left:718px;
+  width:670px;
+  min-width:670px;
+  margin-top:-1094px;
+  margin-bottom:1033px;
+  min-height:61px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:72px;
+  line-height:82px;
+}
+.C-MMS-outer{
+     
+  z-index:7;
+  position:relative;
+  display:flex;
+}
+.Outline-Interface-Me{
+  position:relative;
+  z-index:5;
+     
+  margin-left:1620px;
+  width:70px;
+  min-width:70px;
+  height:70px;
+  margin-top:-1094px;
+  margin-bottom:1024px;
+  min-height:70px;
+}
+.Outline-Interface-Me-outer{
+     
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.Icon-16{
+  position:relative;
+  z-index:6;
+     
+  margin-left:17.14285714285715%;
+  width:64.58571428571432%;
+  height:47.91428571428571%;
+  margin-top:5.714285714285716%;
+  content:url(../assets/postGameSelection2_img/Icon_16.png);
+}
+.Icon-16-outer{
+     
+  z-index:6;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Games{
+  position:relative;
+  z-index:20;
+     
+  margin-left:221px;
+  width:145px;
+  min-width:145px;
+  margin-top:-1090px;
+  margin-bottom:1047px;
+  min-height:43px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:24px;
+  line-height:28px;
+}
+.Games-outer{
+     
+  z-index:20;
+  position:relative;
+  display:flex;
+}
+.Your-Teammates{
+  position:relative;
+  z-index:21;
+     
+  margin-left:79px;
+  width:449px;
+  min-width:449px;
+  margin-top:-950px;
+  margin-bottom:869px;
+  min-height:81px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:36px;
+  line-height:42px;
+}
+.Your-Teammates-outer{
+     
+  z-index:21;
+  position:relative;
+  display:flex;
+}
+.Strategy-Board{
+  position:relative;
+  z-index:70;
+     
+  margin-left:964px;
+  width:449px;
+  min-width:449px;
+  margin-top:-905px;
+  margin-bottom:824px;
+  min-height:81px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:42px;
+  line-height:48px;
+  text-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Strategy-Board-outer{
+     
+  z-index:70;
+  position:relative;
+  display:flex;
+}
+.Rectangle-57{
+  position:relative;
+  z-index:68;
+     
+  margin-left:718px;
+  width:817px;
+  min-width:817px;
+  height:691px;
+  margin-top:-905px;
+  margin-bottom:214px;
+  min-height:691px;
+  background-color:rgba(104, 107, 117, 1);
+  border-radius:20px;
+}
+.Rectangle-57-outer{
+     
+  z-index:68;
+  position:relative;
+  display:flex;
+}
+.Strategy-Board-1{
+  position:relative;
+  z-index:59;
+     
+  margin-left:983px;
+  width:449px;
+  min-width:449px;
+  margin-top:-903px;
+  margin-bottom:822px;
+  min-height:81px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(10, 10, 10, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:36px;
+  line-height:42px;
+  text-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Strategy-Board-1-outer{
+     
+  z-index:59;
+  position:relative;
+  display:flex;
+}
+.a1-6{
+  position:relative;
+  z-index:47;
+     
+  margin-left:71px;
+  width:102px;
+  min-width:102px;
+  height:102px;
+  margin-top:-855px;
+  margin-bottom:753px;
+  min-height:102px;
+  content:url(../assets/postGameSelection2_img/a1_6.png);
+}
+.a1-6-outer{
+     
+  z-index:47;
+  position:relative;
+  display:flex;
+}
+.a1-2{
+  position:relative;
+  z-index:32;
+     
+  margin-left:71px;
+  width:102px;
+  min-width:102px;
+  height:102px;
+  margin-top:-855px;
+  margin-bottom:753px;
+  min-height:102px;
+  content:url(../assets/postGameSelection2_img/a1_2.png);
+}
+.a1-2-outer{
+     
+  z-index:32;
+  position:relative;
+  display:flex;
+}
+.Outline-Media-Volume-1{
+  position:relative;
+  z-index:83;
+     
+  margin-left:455px;
+  width:75px;
+  min-width:75px;
+  height:75px;
+  margin-top:-843px;
+  margin-bottom:768px;
+  min-height:75px;
+}
+.Outline-Media-Volume-1-outer{
+     
+  z-index:83;
+  position:relative;
+  display:flex;
+}
+.Icon-2{
+  position:relative;
+  z-index:84;
+     
+  margin-left:9.333333333333341%;
+  width:81.2533333333334%;
+  height:65.24%;
+  margin-top:17.333333333333346%;
+  content:url(../assets/postGameSelection2_img/Icon_2.png);
+}
+.Icon-2-outer{
+     
+  z-index:84;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Pokemonfan101-1{
+  position:relative;
+  z-index:41;
+     
+  margin-left:78px;
+  width:474px;
+  min-width:474px;
+  margin-top:-843px;
+  margin-bottom:805px;
+  min-height:38px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:28px;
+  line-height:32px;
+
+}
+.Pokemonfan101-1-outer{
+     
+  z-index:41;
+  position:relative;
+  display:flex;
+}
+.Pokemonfan101-3{
+  position:relative;
+  z-index:24;
+     
+  margin-left:78px;
+  width:474px;
+  min-width:474px;
+  margin-top:-843px;
+  margin-bottom:805px;
+  min-height:38px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:28px;
+  line-height:32px;
+
+}
+.Pokemonfan101-3-outer{
+     
+  z-index:24;
+  position:relative;
+  display:flex;
+}
+.image-28{
+  position:relative;
+  z-index:69;
+     
+  margin-left:796px;
+  width:645px;
+  min-width:645px;
+  height:495px;
+  margin-top:-822px;
+  margin-bottom:327px;
+  min-height:495px;
+  content:url(../assets/postGameSelection2_img/image_28.png);
+}
+.image-28-outer{
+     
+  z-index:69;
+  position:relative;
+  display:flex;
+}
+.image-27{
+  position:relative;
+  z-index:56;
+     
+  margin-left:796px;
+  width:645px;
+  min-width:645px;
+  height:495px;
+  margin-top:-822px;
+  margin-bottom:327px;
+  min-height:495px;
+  content:url(../assets/postGameSelection2_img/image_27.png);
+}
+.image-27-outer{
+     
+  z-index:56;
+  position:relative;
+  display:flex;
+}
+.q56--winrate-1{
+  position:relative;
+  z-index:42;
+     
+  margin-left:44px;
+  width:474px;
+  min-width:474px;
+  margin-top:-805px;
+  margin-bottom:766px;
+  min-height:39px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:20px;
+  line-height:23px;
+
+}
+.q56--winrate-1-outer{
+     
+  z-index:42;
+  position:relative;
+  display:flex;
+}
+.q56--winrate-3{
+  position:relative;
+  z-index:25;
+     
+  margin-left:44px;
+  width:474px;
+  min-width:474px;
+  margin-top:-805px;
+  margin-bottom:766px;
+  min-height:39px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:20px;
+  line-height:23px;
+    
+}
+.q56--winrate-3-outer{
+     
+  z-index:25;
+  position:relative;
+  display:flex;
+}
+.a2-6{
+  position:relative;
+  z-index:49;
+     
+  margin-left:71px;
+  width:102px;
+  min-width:102px;
+  height:102px;
+  margin-top:-737px;
+  margin-bottom:635px;
+  min-height:102px;
+  content:url(../assets/postGameSelection2_img/a2_6.png);
+}
+.a2-6-outer{
+     
+  z-index:49;
+  position:relative;
+  display:flex;
+}
+.Ellipse-6{
+  position:relative;
+  z-index:48;
+     
+  margin-left:71px;
+  width:102px;
+  min-width:102px;
+  height:102px;
+  margin-top:-737px;
+  margin-bottom:635px;
+  min-height:102px;
+  content:url(../assets/postGameSelection2_img/Ellipse_6.png);
+}
+.Ellipse-6-outer{
+     
+  z-index:48;
+  position:relative;
+  display:flex;
+}
+.a2-2{
+  position:relative;
+  z-index:34;
+     
+  margin-left:71px;
+  width:102px;
+  min-width:102px;
+  height:102px;
+  margin-top:-737px;
+  margin-bottom:635px;
+  min-height:102px;
+  content:url(../assets/postGameSelection2_img/a2_2.png);
+}
+.a2-2-outer{
+     
+  z-index:34;
+  position:relative;
+  display:flex;
+}
+.Ellipse-2{
+  position:relative;
+  z-index:33;
+     
+  margin-left:71px;
+  width:102px;
+  min-width:102px;
+  height:102px;
+  margin-top:-737px;
+  margin-bottom:635px;
+  min-height:102px;
+  content:url(../assets/postGameSelection2_img/Ellipse_2.png);
+}
+.Ellipse-2-outer{
+     
+  z-index:33;
+  position:relative;
+  display:flex;
+}
+.Rectangle-43{
+  position:relative;
+  z-index:23;
+     
+  transform:rotate(-90deg);
+  margin-left:229px;
+  width:5px;
+  min-width:5px;
+  height:291px;
+  margin-top:-1030px;
+  margin-bottom:649px;
+  min-height:291px;
+  background:linear-gradient(180deg, rgba(0, 194, 255, 1) -3.0616171314629196e-15%, rgba(253, 0, 121, 1) 99.99999999999997%);
+}
+
+.Rectangle-43-outer{
+     
+  z-index:23;
+  position:relative;
+  display:flex;
+}
+.XxSypherxX-1{
+  position:relative;
+  z-index:44;
+     
+  margin-left:210px;
+  width:371px;
+  min-width:371px;
+  margin-top:-725px;
+  margin-bottom:687px;
+  min-height:38px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:28px;
+  line-height:32px;
+    
+}
+.XxSypherxX-1-outer{
+     
+  z-index:44;
+  position:relative;
+  display:flex;
+}
+.XxSypherxX-3{
+  position:relative;
+  z-index:28;
+     
+  margin-left:210px;
+  width:371px;
+  min-width:371px;
+  margin-top:-725px;
+  margin-bottom:687px;
+  min-height:38px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:28px;
+  line-height:32px;
+    
+}
+.XxSypherxX-3-outer{
+     
+  z-index:28;
+  position:relative;
+  display:flex;
+}
+.q100--winrate{
+  position:relative;
+  z-index:45;
+     
+  margin-left:44px;
+  width:474px;
+  min-width:474px;
+  margin-top:-687px;
+  margin-bottom:648px;
+  min-height:39px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:20px;
+  line-height:23px;
+    
+}
+.q100--winrate-outer{
+     
+  z-index:45;
+  position:relative;
+  display:flex;
+}
+.q100--winrate-2{
+  position:relative;
+  z-index:29;
+     
+  margin-left:44px;
+  width:474px;
+  min-width:474px;
+  margin-top:-687px;
+  margin-bottom:648px;
+  min-height:39px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:20px;
+  line-height:23px;
+    
+}
+.q100--winrate-2-outer{
+     
+  z-index:29;
+  position:relative;
+  display:flex;
+}
+.a3-4{
+  position:relative;
+  z-index:46;
+     
+  margin-left:71px;
+  width:101px;
+  min-width:101px;
+  height:101px;
+  margin-top:-602px;
+  margin-bottom:501px;
+  min-height:101px;
+  content:url(../assets/postGameSelection2_img/a3_4.png);
+}
+.a3-4-outer{
+     
+  z-index:46;
+  position:relative;
+  display:flex;
+}
+.a3-2{
+  position:relative;
+  z-index:31;
+     
+  margin-left:71px;
+  width:101px;
+  min-width:101px;
+  height:101px;
+  margin-top:-602px;
+  margin-bottom:501px;
+  min-height:101px;
+  content:url(../assets/postGameSelection2_img/a3_2.png);
+}
+.a3-2-outer{
+     
+  z-index:31;
+  position:relative;
+  display:flex;
+}
+.Toxicplayer102{
+  position:relative;
+  z-index:26;
+     
+  margin-left:204px;
+  width:370px;
+  min-width:370px;
+  margin-top:-590px;
+  margin-bottom:552px;
+  min-height:38px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:28px;
+  line-height:32px;
+    
+}
+.Toxicplayer102-outer{
+     
+  z-index:26;
+  position:relative;
+  display:flex;
+}
+.q0--winrate{
+  position:relative;
+  z-index:43;
+     
+  margin-left:37px;
+  width:474px;
+  min-width:474px;
+  margin-top:-552px;
+  margin-bottom:513px;
+  min-height:39px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:20px;
+  line-height:23px;
+    
+}
+.q0--winrate-outer{
+     
+  z-index:43;
+  position:relative;
+  display:flex;
+}
+.q0--winrate-1{
+  position:relative;
+  z-index:27;
+     
+  margin-left:37px;
+  width:474px;
+  min-width:474px;
+  margin-top:-552px;
+  margin-bottom:513px;
+  min-height:39px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:20px;
+  line-height:23px;
+    
+}
+.q0--winrate-1-outer{
+     
+  z-index:27;
+  position:relative;
+  display:flex;
+}
+.a1-7{
+  position:relative;
+  z-index:53;
+     
+  margin-left:63px;
+  width:103px;
+  min-width:103px;
+  height:103px;
+  margin-top:-474px;
+  margin-bottom:371px;
+  min-height:103px;
+  content:url(../assets/postGameSelection2_img/a1_7.png);
+}
+.a1-7-outer{
+     
+  z-index:53;
+  position:relative;
+  display:flex;
+}
+.a1-3{
+  position:relative;
+  z-index:38;
+     
+  margin-left:63px;
+  width:103px;
+  min-width:103px;
+  height:103px;
+  margin-top:-474px;
+  margin-bottom:371px;
+  min-height:103px;
+  content:url(../assets/postGameSelection2_img/a1_3.png);
+}
+.a1-3-outer{
+     
+  z-index:38;
+  position:relative;
+  display:flex;
+}
+.Pokemonfan101{
+  position:relative;
+  z-index:50;
+     
+  margin-left:78px;
+  width:474px;
+  min-width:474px;
+  margin-top:-456px;
+  margin-bottom:417px;
+  min-height:39px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:28px;
+  line-height:32px;
+    
+}
+.Pokemonfan101-outer{
+     
+  z-index:50;
+  position:relative;
+  display:flex;
+}
+.Pokemonfan101-2{
+  position:relative;
+  z-index:35;
+     
+  margin-left:78px;
+  width:474px;
+  min-width:474px;
+  margin-top:-456px;
+  margin-bottom:417px;
+  min-height:39px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:28px;
+  line-height:32px;
+    
+}
+.Pokemonfan101-2-outer{
+     
+  z-index:35;
+  position:relative;
+  display:flex;
+}
+.Outline-Media-Volume{
+  position:relative;
+  z-index:85;
+     
+  margin-left:448px;
+  width:75px;
+  min-width:75px;
+  height:75px;
+  margin-top:-455px;
+  margin-bottom:380px;
+  min-height:75px;
+}
+.Outline-Media-Volume-outer{
+     
+  z-index:85;
+  position:relative;
+  display:flex;
+}
+.Icon-1{
+  position:relative;
+  z-index:86;
+     
+  margin-left:9.333333333333341%;
+  width:81.2533333333334%;
+  height:65.24%;
+  margin-top:17.333333333333346%;
+  content:url(../assets/postGameSelection2_img/Icon_1.png);
+}
+.Icon-1-outer{
+     
+  z-index:86;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.q56--winrate{
+  position:relative;
+  z-index:51;
+     
+  margin-left:37px;
+  width:474px;
+  min-width:474px;
+  margin-top:-423px;
+  margin-bottom:384px;
+  min-height:39px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:20px;
+  line-height:23px;
+    
+}
+.q56--winrate-outer{
+     
+  z-index:51;
+  position:relative;
+  display:flex;
+}
+.q56--winrate-2{
+  position:relative;
+  z-index:36;
+     
+  margin-left:37px;
+  width:474px;
+  min-width:474px;
+  margin-top:-423px;
+  margin-bottom:384px;
+  min-height:39px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:20px;
+  line-height:23px;
+    
+}
+.q56--winrate-2-outer{
+     
+  z-index:36;
+  position:relative;
+  display:flex;
+}
+.a2-7{
+  position:relative;
+  z-index:55;
+     
+  margin-left:63px;
+  width:103px;
+  min-width:103px;
+  height:103px;
+  margin-top:-356px;
+  margin-bottom:253px;
+  min-height:103px;
+  content:url(../assets/postGameSelection2_img/a2_7.png);
+}
+.a2-7-outer{
+     
+  z-index:55;
+  position:relative;
+  display:flex;
+}
+.Ellipse-7{
+  position:relative;
+  z-index:54;
+     
+  margin-left:63px;
+  width:103px;
+  min-width:103px;
+  height:103px;
+  margin-top:-356px;
+  margin-bottom:253px;
+  min-height:103px;
+  content:url(../assets/postGameSelection2_img/Ellipse_7.png);
+}
+.Ellipse-7-outer{
+     
+  z-index:54;
+  position:relative;
+  display:flex;
+}
+.a2-3{
+  position:relative;
+  z-index:40;
+     
+  margin-left:63px;
+  width:103px;
+  min-width:103px;
+  height:103px;
+  margin-top:-356px;
+  margin-bottom:253px;
+  min-height:103px;
+  content:url(../assets/postGameSelection2_img/a2_3.png);
+}
+.a2-3-outer{
+     
+  z-index:40;
+  position:relative;
+  display:flex;
+}
+.Ellipse-3{
+  position:relative;
+  z-index:39;
+     
+  margin-left:63px;
+  width:103px;
+  min-width:103px;
+  height:103px;
+  margin-top:-356px;
+  margin-bottom:253px;
+  min-height:103px;
+  content:url(../assets/postGameSelection2_img/Ellipse_3.png);
+}
+.Ellipse-3-outer{
+     
+  z-index:39;
+  position:relative;
+  display:flex;
+}
+.XxSypherxX{
+  position:relative;
+  z-index:52;
+     
+  margin-left:203px;
+  width:371px;
+  min-width:371px;
+  margin-top:-344px;
+  margin-bottom:305px;
+  min-height:39px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:28px;
+  line-height:32px;
+    
+}
+.XxSypherxX-outer{
+     
+  z-index:52;
+  position:relative;
+  display:flex;
+}
+.XxSypherxX-2{
+  position:relative;
+  z-index:37;
+     
+  margin-left:203px;
+  width:371px;
+  min-width:371px;
+  margin-top:-344px;
+  margin-bottom:305px;
+  min-height:39px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:28px;
+  line-height:32px;
+    
+}
+.XxSypherxX-2-outer{
+     
+  z-index:37;
+  position:relative;
+  display:flex;
+}
+.Outline-Communicatio{
+  position:relative;
+  z-index:81;
+     
+  margin-left:1340px;
+  width:70px;
+  min-width:70px;
+  height:70px;
+  margin-top:-317px;
+  margin-bottom:247px;
+  min-height:70px;
+}
+.Outline-Communicatio-outer{
+     
+  z-index:81;
+  position:relative;
+  display:flex;
+}
+.Icon-3{
+  position:relative;
+  z-index:82;
+     
+  margin-left:12.857142857142863%;
+  width:73.51428571428575%;
+  height:53.08571428571428%;
+  margin-top:22.857142857142865%;
+  content:url(../assets/postGameSelection2_img/Icon_3.png);
+}
+.Icon-3-outer{
+     
+  z-index:82;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-56{
+  position:relative;
+  z-index:73;
+     
+  margin-left:1336px;
+  width:77px;
+  min-width:77px;
+  height:77px;
+  margin-top:-317px;
+  margin-bottom:240px;
+  min-height:77px;
+  background-color:rgba(255, 255, 255, 1);
+  border-radius:20px;
+}
+.Rectangle-56-outer{
+     
+  z-index:73;
+  position:relative;
+  display:flex;
+}
+.Rectangle-54{
+  position:relative;
+  z-index:74;
+     
+  margin-left:821px;
+  width:77px;
+  min-width:77px;
+  height:77px;
+  margin-top:-314px;
+  margin-bottom:237px;
+  min-height:77px;
+  background-color:rgba(255, 255, 255, 1);
+  border-radius:20px;
+}
+.Rectangle-54-outer{
+     
+  z-index:74;
+  position:relative;
+  display:flex;
+}
+.Rectangle-55{
+  position:relative;
+  z-index:72;
+     
+  margin-left:1027px;
+  width:77px;
+  min-width:77px;
+  height:77px;
+  margin-top:-314px;
+  margin-bottom:237px;
+  min-height:77px;
+  background-color:rgba(255, 255, 255, 1);
+  border-radius:20px;
+}
+.Rectangle-55-outer{
+     
+  z-index:72;
+  position:relative;
+  display:flex;
+}
+.Rectangle-53{
+  position:relative;
+  z-index:71;
+     
+  margin-left:925px;
+  width:77px;
+  min-width:77px;
+  height:77px;
+  margin-top:-314px;
+  margin-bottom:237px;
+  min-height:77px;
+  background-color:rgba(255, 255, 255, 1);
+  border-radius:20px;
+}
+.Rectangle-53-outer{
+     
+  z-index:71;
+  position:relative;
+  display:flex;
+}
+.Outline-Status-Info-{
+  position:relative;
+  z-index:79;
+     
+  margin-left:1031px;
+  width:70px;
+  min-width:70px;
+  height:70px;
+  margin-top:-313px;
+  margin-bottom:243px;
+  min-height:70px;
+}
+.Outline-Status-Info--outer{
+     
+  z-index:79;
+  position:relative;
+  display:flex;
+}
+.Icon-4{
+  position:relative;
+  z-index:80;
+     
+  margin-left:8.571428571428568%;
+  width:82.88571428571426%;
+  height:77.2%;
+  margin-top:11.428571428571423%;
+  content:url(../assets/postGameSelection2_img/Icon_4.png);
+}
+.Icon-4-outer{
+     
+  z-index:80;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Solid-Interface-Edit{
+  position:relative;
+  z-index:77;
+     
+  margin-left:826px;
+  width:70px;
+  min-width:70px;
+  height:70px;
+  margin-top:-310px;
+  margin-bottom:240px;
+  min-height:70px;
+}
+.Solid-Interface-Edit-outer{
+     
+  z-index:77;
+  position:relative;
+  display:flex;
+}
+.Icon-5{
+  position:relative;
+  z-index:78;
+     
+  margin-left:12.857142857142858%;
+  width:68.75714285714285%;
+  height:71.87142857142857%;
+  margin-top:14.285714285714286%;
+  content:url(../assets/postGameSelection2_img/Icon_5.png);
+}
+.Icon-5-outer{
+     
+  z-index:78;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Outline-Navigation-L{
+  position:relative;
+  z-index:75;
+     
+  margin-left:929px;
+  width:70px;
+  min-width:70px;
+  height:70px;
+  margin-top:-310px;
+  margin-bottom:240px;
+  min-height:70px;
+}
+.Outline-Navigation-L-outer{
+     
+  z-index:75;
+  position:relative;
+  display:flex;
+}
+.Icon-6{
+  position:relative;
+  z-index:76;
+     
+  margin-left:14.285714285714286%;
+  width:70.88571428571429%;
+  height:86.11428571428571%;
+  margin-top:5.714285714285714%;
+  content:url(../assets/postGameSelection2_img/Icon_6.png);
+}
+.Icon-6-outer{
+     
+  z-index:76;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Solid-Interface-Edit-1{
+  position:relative;
+  z-index:66;
+     
+  margin-left:822px;
+  width:60px;
+  min-width:60px;
+  height:60px;
+  margin-top:-305px;
+  margin-bottom:245px;
+  min-height:60px;
+}
+.Solid-Interface-Edit-1-outer{
+     
+  z-index:66;
+  position:relative;
+  display:flex;
+}
+.Icon-7{
+  position:relative;
+  z-index:67;
+     
+  margin-left:13.333333333333334%;
+  width:68.75%;
+  height:71.88333333333334%;
+  margin-top:15%;
+  content:url(../assets/postGameSelection2_img/Icon_7.png);
+}
+.Icon-7-outer{
+     
+  z-index:67;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.q100--winrate-1{
+  position:relative;
+  z-index:30;
+     
+  margin-left:37px;
+  width:474px;
+  min-width:474px;
+  margin-top:-305px;
+  margin-bottom:266px;
+  min-height:39px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:20px;
+  line-height:23px;
+    
+}
+.q100--winrate-1-outer{
+     
+  z-index:30;
+  position:relative;
+  display:flex;
+}
+.Leave-Voice-Call{
+  position:relative;
+  z-index:22;
+     
+  margin-left:144px;
+  width:418px;
+  min-width:418px;
+  margin-top:-214px;
+  margin-bottom:139px;
+  min-height:75px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:32px;
+  line-height:37px;
+}
+.Leave-Voice-Call-outer{
+     
+  z-index:22;
+  position:relative;
+  display:flex;
+}
+.Rectangle-48{
+  position:relative;
+  z-index:62;
+     
+  margin-left:520px;
+  width:72px;
+  min-width:72px;
+  height:69px;
+  margin-top:-210px;
+  margin-bottom:141px;
+  min-height:69px;
+  background-color:rgba(27, 28, 30, 1);
+}
+.Rectangle-48-outer{
+     
+  z-index:62;
+  position:relative;
+  display:flex;
+}
+.Rectangle-47{
+  position:relative;
+  z-index:18;
+     
+  margin-left:434px;
+  width:72px;
+  min-width:72px;
+  height:69px;
+  margin-top:-210px;
+  margin-bottom:141px;
+  min-height:69px;
+  background-color:rgba(27, 28, 30, 1);
+}
+.Rectangle-47-outer{
+     
+  z-index:18;
+  position:relative;
+  display:flex;
+}
+.Rectangle-46{
+  position:relative;
+  z-index:17;
+     
+  margin-left:71px;
+  width:346px;
+  min-width:346px;
+  height:69px;
+  margin-top:-210px;
+  margin-bottom:141px;
+  min-height:69px;
+  background-color:rgba(27, 28, 30, 1);
+}
+.Rectangle-46-outer{
+     
+  z-index:17;
+  position:relative;
+  display:flex;
+}
+.Outline-Media-Headph{
+  position:relative;
+  z-index:63;
+     
+  margin-left:521px;
+  width:70px;
+  min-width:70px;
+  height:70px;
+  margin-top:-208px;
+  margin-bottom:138px;
+  min-height:70px;
+}
+.Outline-Media-Headph-outer{
+     
+  z-index:63;
+  position:relative;
+  display:flex;
+}
+.Icon-8{
+  position:relative;
+  z-index:64;
+     
+  margin-left:12.857142857142852%;
+  width:72.91428571428568%;
+  height:68.75714285714285%;
+  margin-top:9.999999999999996%;
+  content:url(../assets/postGameSelection2_img/Icon_8.png);
+}
+.Icon-8-outer{
+     
+  z-index:64;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Outline-Media-Microp{
+  position:relative;
+  z-index:60;
+     
+  margin-left:440px;
+  width:60px;
+  min-width:60px;
+  height:61px;
+  margin-top:-207px;
+  margin-bottom:146px;
+  min-height:61px;
+}
+.Outline-Media-Microp-outer{
+     
+  z-index:60;
+  position:relative;
+  display:flex;
+}
+.Icon-9{
+  position:relative;
+  z-index:61;
+     
+  margin-left:15%;
+  width:72.91666666666667%;
+  height:86.59016393442623%;
+  margin-top:10%;
+  content:url(../assets/postGameSelection2_img/Icon_9.png);
+}
+.Icon-9-outer{
+     
+  z-index:61;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Outline-Media-Headse{
+  position:relative;
+  z-index:57;
+     
+  margin-left:80px;
+  width:60px;
+  min-width:60px;
+  height:61px;
+  margin-top:-206px;
+  margin-bottom:145px;
+  min-height:61px;
+}
+.Outline-Media-Headse-outer{
+     
+  z-index:57;
+  position:relative;
+  display:flex;
+}
+.Icon-10{
+  position:relative;
+  z-index:58;
+     
+  margin-left:10%;
+  width:81.25%;
+  height:82.29508196721312%;
+  margin-top:10%;
+  content:url(../assets/postGameSelection2_img/Icon_10.png);
+}
+.Icon-10-outer{
+     
+  z-index:58;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-49{
+  position:relative;
+  z-index:65;
+     
+  transform:rotate(44.8819337281997deg);
+  margin-left:553px;
+  width:3.71px;
+  min-width:3.71px;
+  height:69.22px;
+  margin-top:-189px;
+  margin-bottom:119.77999999999997px;
+  min-height:69.22px;
+  background:linear-gradient(180deg, rgba(0, 194, 255, 1) -0.0036258031757195252%, rgba(253, 0, 121, 1) 99.99637393389528%);
+  border-radius:50px;
+}
+.Rectangle-49-outer{
+     
+  z-index:65;
+  position:relative;
+  display:flex;
+}
+.Leave-Room{
+  position:relative;
+  z-index:88;
+     
+  margin-left:1387px;
+  width:418px;
+  min-width:418px;
+  margin-top:-138px;
+  margin-bottom:63px;
+  min-height:75px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Mplus 1p;
+  font-weight:700;
+  font-size:32px;
+  line-height:37px;
+}
+.Leave-Room-outer{
+     
+  z-index:88;
+  position:relative;
+  display:flex;
+}
+.Rectangle-58{
+  position:relative;
+  z-index:87;
+     
+  margin-left:1314px;
+  width:275px;
+  min-width:275px;
+  height:69px;
+  margin-top:-134px;
+  margin-bottom:65px;
+  min-height:69px;
+  background-color:rgba(27, 28, 30, 1);
+}
+.Rectangle-58-outer{
+     
+  z-index:87;
+  position:relative;
+  display:flex;
+}
+.Outline-Interface-Lo{
+  position:relative;
+  z-index:89;
+     
+  margin-left:1317px;
+  width:65px;
+  min-width:65px;
+  height:65px;
+  margin-top:-132px;
+  margin-bottom:67px;
+  min-height:65px;
+}
+.Outline-Interface-Lo-outer{
+     
+  z-index:89;
+  position:relative;
+  display:flex;
+}
+.Icon{
+  position:relative;
+  z-index:90;
+     
+  margin-left:13.84615384615386%;
+  width:68.75384615384621%;
+  height:64.58461538461539%;
+  margin-top:18.461538461538478%;
+  content:url(../assets/postGameSelection2_img/Icon.png);
+}
+.Icon-outer{
+     
+  z-index:90;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Icon-11{
+  position:relative;
+  z-index:19;
+     
+  margin-left:7.986111111111111%;
+  width:4.050925925925926%;
+  height:5.371171171171171%;
+  margin-top:1.099537037037037%;
+  content:url(../assets/postGameSelection2_img/Icon_11.png);
+}
+.Icon-11-outer{
+     
+  z-index:19;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+
+a:visited{
+  color: white;
+  text-decoration: none;
+}
+
+a:link{
+  color: white;
+  text-decoration: none;
+}
